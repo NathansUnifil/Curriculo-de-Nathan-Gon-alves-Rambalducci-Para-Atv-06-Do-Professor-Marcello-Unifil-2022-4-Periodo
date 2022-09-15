@@ -1,7 +1,4 @@
----
-layout: cv
-title: Curriculo de Nathan
----
+
 # Nathan Gonçalves Rambalducci
 Estudante, Estágiario em Ciarama Máquinas.
 
@@ -26,7 +23,7 @@ Java, HTML, CSS, Dart, Flutter, Markdown, Archi, JavaScript, Maven, XAMPP, Git, 
 Desenhar, Descançar, Novos Desafios, Superar-me, Arranjar Maneiras para solucinar problemas já resolvidos.
 
 
-## Education
+## Educação
 
 __Ensino Médio Completo no Colégio Mãe de Deus, Londrina.__
 
